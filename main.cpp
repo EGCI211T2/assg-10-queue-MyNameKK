@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 #include "Queue.h"
+#include <string.h>
 
 int main(int argc , char **argv) {
   Queue q;
